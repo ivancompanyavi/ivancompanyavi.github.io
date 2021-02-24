@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>Brain Bucket</title>
+        <!-- Fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=The+Girl+Next+Door' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Marcellus' rel='stylesheet' type='text/css'>
+        
+        <!-- CSS -->
+        <link rel="stylesheet" href="/theme/css/main.css" type="text/css" />
+        <link rel="stylesheet" href="/theme/css/pygments.css" type="text/css" />
+        <link rel="stylesheet" href="/theme/css/font-awesome.css" type="text/css" />
+        <meta charset="utf-8" />
+      
+
+        <!-- Javascript-->
+        <script async src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+        <script async type="text/javascript"> 
+        $(function() {
+            function invisibleMenu() {
+                var now = 0;
+                var pixels = 300;
+                var opacity = -1;
+
+                var move = function() {
+                    now = $(window).scrollTop();
+                    if (now > pixels && opacity !== 0)
+                        opacity = 0;
+                    else if (now < pixels){
+                        // Depends on the position not if scrolls down or up
+                        opacity = (1 - now/pixels);
+                    }
+                    $("div.navigation").css({"opacity": opacity});
+                }
+                $(window).scroll(move);
+                move();
+            }
+            invisibleMenu();
+          });
+          </script> 
+</head>
+
+<body id="index" class="home">
+     <div class="navigation">
+        <ol class="nav">
+          <li class="current"><a href="">Blog</a> </li>
+          <li><a href="/archives.html">Archive</a></li>
+          <li><a href="/tags.html">Tags</a> </li>
+          <li><a href="">RSS</a> </li>
+        </ol>
+      </div>
+        <header id="banner" class="body">
+                <div class="banner"><a href="">Brain Bucket <strong></strong></a></div>
+        </header><!-- /#banner -->
+        <nav id="menu"><ul>
+        </ul></nav><!-- /#menu -->
+        <div class="box">
+<section id="content" class="body">
+  <header class="post">
+    <h1 class="entry-title">
+      Programming languages
+    </h1>
+  </header>
+  <footer class="post-info">
+    <abbr>
+      Mon 22 February 2021 
+         By <a class="url fn" href="/author/ivan-company.html">Ivan Company</a>
+  
+    </abbr>
+  </footer><!-- /.post-info -->
+  <div class="entry-content">
+    <p>There are plenty of programming languages out there. Each of them have unique ways of solving problems, both from an internal and practical point of view. Because of this, it's not uncommon to see people who will advocate for a particular language more than others, sometimes reaching the point of reverence and evangelization.</p>
+<p>I'm not afraid to say I've been in both teams. When I started working I was a ruthless defender of Python. I loved all the things that the language and the community involved, and this is not necessarily a problem (it's still one of my favourite languages). The problem comes when that sort of fanaticism turns out being hatred for languages different from yours. I've had endless conversations with my senior developers about how bad X or Y language were. The funny thing is that most of my reasons were aesthetic, which makes it even sillier, as in my opinion that should never be the reason to consider a language better than others (it can define your preference, but that's it).</p>
+<p>Let's put some examples from some different programming languages. We are going to create a function that, given a string containing numbers separated by comma, we want to extract those numbers and return the sum of all of them.</p>
+<p>Implementation with Java</p>
+<div class="highlight"><pre><span></span><span class="kd">public</span> <span class="kd">static</span> <span class="kt">int</span> <span class="nf">countNumbers</span><span class="p">()</span> <span class="p">{</span>
+    <span class="n">String</span> <span class="n">sNumbers</span> <span class="o">=</span> <span class="s">&quot;1, 2, 3, 4&quot;</span><span class="p">;</span>
+    <span class="n">String</span> <span class="n">sNumbersArray</span><span class="o">[]</span> <span class="o">=</span> <span class="n">sNumbers</span><span class="p">.</span><span class="na">split</span><span class="p">(</span><span class="s">&quot;, &quot;</span><span class="p">);</span>
+    <span class="kt">int</span><span class="o">[]</span> <span class="n">numbers</span> <span class="o">=</span> <span class="k">new</span> <span class="kt">int</span><span class="o">[</span><span class="n">sNumbersArray</span><span class="p">.</span><span class="na">length</span><span class="o">]</span><span class="p">;</span>
+    <span class="kt">int</span> <span class="n">acc</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+    <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">sNumbersArray</span><span class="p">.</span><span class="na">length</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+        <span class="n">acc</span> <span class="o">+=</span> <span class="n">Integer</span><span class="p">.</span><span class="na">parseInt</span><span class="p">(</span><span class="n">sNumbersArray</span><span class="o">[</span><span class="n">i</span><span class="o">]</span><span class="p">);</span>
+    <span class="p">}</span>
+    <span class="k">return</span> <span class="n">acc</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+<p>Implementation with Elixir</p>
+<div class="highlight"><pre><span></span><span class="kd">def</span> <span class="n">count_numbers</span><span class="p">()</span> <span class="k">do</span>
+    <span class="n">s_numbers</span> <span class="o">=</span> <span class="s2">&quot;1, 2, 3, 4&quot;</span>
+    <span class="nc">String</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="n">s_numbers</span><span class="p">,</span> <span class="s2">&quot;, &quot;</span><span class="p">)</span>
+        <span class="o">|&gt;</span> <span class="nc">Enum</span><span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="o">&amp;</span><span class="nc">String</span><span class="o">.</span><span class="n">to_integer</span><span class="o">/</span><span class="mi">1</span><span class="p">)</span>
+        <span class="o">|&gt;</span> <span class="nc">Enum</span><span class="o">.</span><span class="n">reduce</span><span class="p">(</span><span class="k">fn</span> <span class="n">x</span><span class="p">,</span> <span class="n">acc</span> <span class="o">-&gt;</span> <span class="n">x</span> <span class="o">+</span> <span class="n">acc</span> <span class="k">end</span><span class="p">)</span>
+</pre></div>
+<p>Implementation in Python:</p>
+<div class="highlight"><pre><span></span><span class="k">def</span> <span class="nf">count_numbers</span><span class="p">():</span>
+    <span class="n">s_numbers</span> <span class="o">=</span> <span class="s2">&quot;1, 2, 3, 4&quot;</span>
+    <span class="k">return</span> <span class="nb">sum</span><span class="p">([</span><span class="nb">int</span><span class="p">(</span><span class="n">n</span><span class="p">)</span> <span class="k">for</span> <span class="n">n</span> <span class="ow">in</span> <span class="n">s_numbers</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s2">&quot;, &quot;</span><span class="p">)])</span>
+</pre></div>
+<p>Of course there are other possible solutions, I just wanted to make a point here. At a glance some people will have a clear idea of what was their favourite solution:</p>
+<ul class="simple">
+<li>Java because is more clear</li>
+<li>Elixir because is concise and understandable</li>
+<li>Python because is short and powerful</li>
+</ul>
+<p>Well, all those answers are correct. I like to move between languages because I like different parts of them and the language itself forces me to shape my mind differently to reach the same solution, which helps staying fresh.</p>
+<p>There is one last point I wanted to talk about on this matter: it's not the same a production, professional environment than your pet project at home. On a company you need to take other things in consideration like: language expertise on the company, maintainability (sometimes weakly typed languages are a bit hard to maintain as you don't know somestimes what are the variables you are working with) or infrastructure (it's not the same to launch a Java app than a Python one).</p>
+<p>In conclusion, most of the times the programming language choice (specially on a home project) is up to you. In 99% of the production apps out there, the language is not an impediment to deliver a product of quality (most of the times your performance issues are because of your code, not because of the language).</p>
+
+  </div><!-- /.entry-content -->
+</section>
+            <hr/>
+            <footer id="contentinfo" class="footer">
+                <div>
+                    <a href="">Ivan Company</a> (2012)
+                </div>
+                <div>
+                    This work is licensed under <a rel="license" href="http://opensource.org/licenses/bsd-3-clause">3 clause BSD</a>. Source code available on <a rel="source code" href="https://github.com/slok/blog">Github</a>
+                </div>
+                <div>
+                    powered by <a href="http://getpelican.com/">Pelican</a>
+                    and <a href="http://python.org">Python</a>. 
+                    <a href="http://github.com/slok/iris">Theme</a> by <a href="http://xlarrakoetxea.org">Xabier Larrakoetxea</a> based on <a href="http://flask.pocoo.org/">Flask</a> theme
+                </div>
+                <div>
+                    Social icons (font awesome) by <a href="http://fortawesome.github.com/Font-Awesome/"> fort awesome</a>.
+                    <a href="http://www.google.com/webfonts/specimen/The+Girl+Next+Door">Title</a>, <a href="http://www.google.com/webfonts/specimen/Marcellus">headers</a> and <a href="http://www.google.com/webfonts/specimen/Inconsolata">source code</a> fonts by google fonts
+                </div>
+                <div class="social">
+                        <a href="https://www.linkedin.com/in/ivancompany/"><i class="icon-Linkedin"></i>  </a>
+                        <a href="https://twitter.com/theIvanCompany"><i class="icon-Twitter"></i>  </a>
+                </div>
+            </footer><!-- /#contentinfo -->
+        </div>
+        <!--Add statistycs-->
+
+</body>
+</html>

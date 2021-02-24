@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>Brain Bucket</title>
+        <!-- Fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=The+Girl+Next+Door' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Marcellus' rel='stylesheet' type='text/css'>
+        
+        <!-- CSS -->
+        <link rel="stylesheet" href="/theme/css/main.css" type="text/css" />
+        <link rel="stylesheet" href="/theme/css/pygments.css" type="text/css" />
+        <link rel="stylesheet" href="/theme/css/font-awesome.css" type="text/css" />
+        <meta charset="utf-8" />
+      
+
+        <!-- Javascript-->
+        <script async src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+        <script async type="text/javascript"> 
+        $(function() {
+            function invisibleMenu() {
+                var now = 0;
+                var pixels = 300;
+                var opacity = -1;
+
+                var move = function() {
+                    now = $(window).scrollTop();
+                    if (now > pixels && opacity !== 0)
+                        opacity = 0;
+                    else if (now < pixels){
+                        // Depends on the position not if scrolls down or up
+                        opacity = (1 - now/pixels);
+                    }
+                    $("div.navigation").css({"opacity": opacity});
+                }
+                $(window).scroll(move);
+                move();
+            }
+            invisibleMenu();
+          });
+          </script> 
+</head>
+
+<body id="index" class="home">
+     <div class="navigation">
+        <ol class="nav">
+          <li class="current"><a href="">Blog</a> </li>
+          <li><a href="/archives.html">Archive</a></li>
+          <li><a href="/tags.html">Tags</a> </li>
+          <li><a href="">RSS</a> </li>
+        </ol>
+      </div>
+        <header id="banner" class="body">
+                <div class="banner"><a href="">Brain Bucket <strong></strong></a></div>
+        </header><!-- /#banner -->
+        <nav id="menu"><ul>
+        </ul></nav><!-- /#menu -->
+        <div class="box">
+<section id="content" class="body">
+  <header class="post">
+    <h1 class="entry-title">
+      Beginnings
+    </h1>
+  </header>
+  <footer class="post-info">
+    <abbr>
+       
+         By <a class="url fn" href="/author/ivan-company.html">Ivan Company</a>
+  
+    </abbr>
+  </footer><!-- /.post-info -->
+  <div class="entry-content">
+    <p>Start something is always hard. Human beings are prone to stick with what is more comfortable to them. If I ask to choose between playing videogames and studying for your next exam, most of you will probably be playing videogames before I finish the question. We are &quot;naturally lazy&quot;. This happens in a lot of situations, and development is not an exception.</p>
+<p>When I started working as a software developer, I was extremely excited and I wanted to leave my mark on the company. I wanted to be the best and learn as much as possible from all my more experienced peeps. After a couple of weeks I saw something: some of my teammates were not feeling the same as me. They were not engaged! at first I felt a bit annoyed. They were my superiors, they should love what they do and they should know everything on this codebase, so we can decide what to improve on it. It turned out that there were some experienced developers there that were just doing their day-to-day job. Nothing more, nothing less. My frustration grew even more when I saw that almost none of them wanted to spend time improving the codebase! Trust me, there were things to improve (I could see that even though I had no experience), but they simply got used to it and lived with it. Remember what I said about &quot;the comfort zone&quot;? Here it is again. I'll go deeper on this matter in another post, but I just wanted to highlight the different moods you could see when you are starting.</p>
+<p>Of course there are several other scenarios you can find, and hopefully you will start working on a nice company, with great developers, where code quality is part of the workflow and you get the chance to take part on that quality. But if you don't I'd like to give you a simple tip: there is <strong>always</strong> something you can get better at. Specially when you are starting.</p>
+<ul class="simple">
+<li><em>The code is not good</em></li>
+<li>You will probably work on a big codebase with scalability challenges. Learn from that, and understand <strong>why</strong> this code is not good.</li>
+<li><em>My teammates are not training me</em></li>
+<li>Look for ways to improve that situation. Take tasks that will require help from you superiors, ask your manager how can you get the help you need. Self-training is also something you will have to do on your future years.</li>
+<li><em>I feel like this is not for me</em></li>
+<li>My friend, what you may be feeling is the infamous Impostor Syndrome. That will probably chase you during all your career and I'll dedicate another article to it. Just know that we all went through that and it goes away over time. You can do it!</li>
+<li><em>I still feel this is not for me</em></li>
+<li>If time goes by and you still have this feeling, think also that there are tons of companies and tons of specialties that you may be more interested on. Maybe you like to do websites, or videogames, or embedded systems, or network architectures. Spend some time thinking what you'd like to do and maybe there will be other opportunities out there waiting for you.</li>
+</ul>
+<p>Beginnings are always hard but with time, effort and small steps, you will see how quickly you go from &quot;I have no idea what I'm doing&quot; to &quot;If you need some context about this piece of code, let me know&quot;.</p>
+
+  </div><!-- /.entry-content -->
+</section>
+            <hr/>
+            <footer id="contentinfo" class="footer">
+                <div>
+                    <a href="">Ivan Company</a> (2012)
+                </div>
+                <div>
+                    This work is licensed under <a rel="license" href="http://opensource.org/licenses/bsd-3-clause">3 clause BSD</a>. Source code available on <a rel="source code" href="https://github.com/slok/blog">Github</a>
+                </div>
+                <div>
+                    powered by <a href="http://getpelican.com/">Pelican</a>
+                    and <a href="http://python.org">Python</a>. 
+                    <a href="http://github.com/slok/iris">Theme</a> by <a href="http://xlarrakoetxea.org">Xabier Larrakoetxea</a> based on <a href="http://flask.pocoo.org/">Flask</a> theme
+                </div>
+                <div>
+                    Social icons (font awesome) by <a href="http://fortawesome.github.com/Font-Awesome/"> fort awesome</a>.
+                    <a href="http://www.google.com/webfonts/specimen/The+Girl+Next+Door">Title</a>, <a href="http://www.google.com/webfonts/specimen/Marcellus">headers</a> and <a href="http://www.google.com/webfonts/specimen/Inconsolata">source code</a> fonts by google fonts
+                </div>
+                <div class="social">
+                        <a href="https://www.linkedin.com/in/ivancompany/"><i class="icon-Linkedin"></i>  </a>
+                        <a href="https://twitter.com/theIvanCompany"><i class="icon-Twitter"></i>  </a>
+                </div>
+            </footer><!-- /#contentinfo -->
+        </div>
+        <!--Add statistycs-->
+
+</body>
+</html>
