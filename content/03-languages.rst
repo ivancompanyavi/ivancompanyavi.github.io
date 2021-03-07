@@ -1,8 +1,7 @@
 Programming languages
 *********************
 
-:date: 2021-02-22 15:15
-:status: draft
+:date: 2021-03-07 11:40
 
 There are plenty of programming languages out there. Each of them have unique ways of solving problems, both from an internal and practical point of view. Because of this, it's not uncommon to see people who will advocate for a particular language more than others, sometimes reaching the point of reverence and evangelization.
 
