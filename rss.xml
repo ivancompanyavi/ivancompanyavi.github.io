@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Brain Bucket]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 Oct 2021 02:51:55 GMT</lastBuildDate><item><title><![CDATA[Stress]]></title><description><![CDATA[I obviosuly don’t know who you are or what you do for living so just so we are on the same page, let me tell you this: development can be…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/05-stress/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/05-stress/</guid><pubDate>Sat, 10 Jul 2021 18:30:12 GMT</pubDate><content:encoded>&lt;p&gt;I obviosuly don’t know who you are or what you do for living so just so we are on the same page, let me tell you this: development can be quite stressful. There are multiple factors that can be combined, but here are some examples so you understand what I mean by “stressful”:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deadlines: you have to deliver something tomorrow and you still don’t know if you will make it.&lt;/li&gt;
+&lt;li&gt;Lack of confidence: you were assigned a task you don’t know about and there is no help around to assist you.&lt;/li&gt;
+&lt;li&gt;Toxic environment: your teammates are not willing to help you, or they may even think that they need to be better than you to keep their jobs.&lt;/li&gt;
+&lt;li&gt;Legacy code: you know how to do things right but the codebase is so old that it will take forever to do it.&lt;/li&gt;
+&lt;li&gt;etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These are just some examples you can find on a development environment. With this I don’t mean all the jobs are like that or that these problems are exclusive to software development. I just wanted to show some examples of bad situations you may find. Also, take into account that some of the examples I mentioned may not even be issues for some people (deadlines can keep you focused, lack of confidence can challenge you to learn more, etc), but in general I’d say that if you start experiencing some of this points, you probably should consider doing something about it.&lt;/p&gt;
+&lt;p&gt;During your career you will suffer some (or even all) of these problems, and you need to be ready to face them in one way or another. With “facing” we are not necesarily meaning to fix them, and what better way to explain myself than with some tips  I came up with to help you dealing with some of these situations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First of all, assess the situation: somestimes you may feel you are on a very stressful situation but the reality may be that something else is affecting negatively the way you perceive things at work. I had a situation in the past where I felt super uncomfortable at work and thought I needed a change and I ended up realizing I just needed to improve my personal habits.&lt;/li&gt;
+&lt;li&gt;Now that I just mentioned it, I’ll talk about it. Out-of-work habits can be game-changing when it comes to personal well-being. Doing exercise, take power naps, eating and sleeping properly, meditation… all these things can impact significantly your vision of your working environment.&lt;/li&gt;
+&lt;li&gt;If you feel you don’t know what’s going on or you just need to talk with somebody, use a psychologists. They are a great tool to express your feelings and find out what’s going on. It can feel awkward at the beginning if you never visited one, but it’s an incredible way to know yourself.&lt;/li&gt;
+&lt;li&gt;Be pragmatic: we developers love to see clean, well structured code, but sometimes now is not the best time and maybe what you want will take a lot of time. If that’s something you really want to do, work on a plan instead of a solution. I usually struggled to get this done as I was very code-oriented but trust me, dumping all your ideas on a small document explaining what you want to achieve and asking for feedback from your peeps is much more satisfying than spending 2 weeks trying to fix something that hasn’t been fixed in years.&lt;/li&gt;
+&lt;li&gt;Trust in yourself. You were hired for your skills and for what you can provide to the company. Once you are in, you are asked to do your best to get things done, but if at some point you feel it’s too much work or stress, talk with your manager and arrange a solution.&lt;/li&gt;
+&lt;li&gt;Just leave. It sounds rough but sometimes the best solution for both parts is just to move on. Your career path needs to match with what your company can provide and if that doesn’t happen you may feel frustrated, which turns into not doing your work properly, which turns into stress. We are a very lucky profession in the sense that there are plenty of opportunities out there and I’m sure there is a company that will be more than welcome to help you growing on your new challenges.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I’m obviosuly missing a lot of suggestions and great ideas, but there are plenty of books out there written by smarter people than me that cover most of these things, so if you think I’m lacking some information here, you are probably right.&lt;/p&gt;
+&lt;p&gt;And with this, I’s like to finish the post with a final advice: when something is wrong at the office, take a deep breath, take all the frustration away from you for a second and try to understand what’s going on. If you achieve that, you will be one step closer to be happier at work.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Seniority]]></title><description><![CDATA[Many people in our world have to face at some point on their career the exciting posibility of being promoted. We all start from junior…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/04-seniority/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/04-seniority/</guid><pubDate>Thu, 03 Jun 2021 16:30:12 GMT</pubDate><content:encoded>&lt;p&gt;Many people in our world have to face at some point on their career the exciting posibility of being promoted. We all start from junior/intern positions and make our way up to positions with more responsibilities. It’s always nice to feel that your company appreciates you and your work, and one of way to compensate that is through new career opportunities. That’s a natural evolution of our jobs but it’s definitely easier to say than to actually perform that climb. This is because of several factors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Orgs have different ways of estimating if you are ready to promote. Sometimes, even teams in the same org have different measurements. This is always a source a controversy, and can lead to situations where you can be considered a strong senior developer in some companies but not in others.&lt;/li&gt;
+&lt;li&gt;You have to feel ready to hold a wider variety of tasks under your umbrella. Sometimes what we love about our job is maybe too related with the actual code development, but in most cases, the more you are promoted the more non-code related tasks you will be assigned, and that’s something you have to feel ready to accept. There are some companies that try to keep people on their career paths based on their favourite skills, while still give promotion opportunities without derailing your preferences, but that’s not usually the case.&lt;/li&gt;
+&lt;li&gt;Orgs need to have an open position for you to be promoted. A variant of this is that your team needs this position your are looking for open for you.&lt;/li&gt;
+&lt;li&gt;Your company needs to know about you. Like it or not, you will probably have to work on your self-promotion to show your peeps why you deserve this promotion. I don’t particulary like this, and ideally companies should know about you if you are out outperforming and the promotion should come naturally, but that’s not always the case.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As you can see, there are different factors that come to play on your promotion. This is totally acceptable (there have to be processes for these things), but going through this process can be psychologically harder than it seems, and these are some examples of feelings you may experience along the way (by the way, I’m going to use “senior” as an example, but this can apply to all the levels):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Your consideration of what is required from a senior developer may difer from your company’s. You may think that a senior must just code very well and they may think it also requires attending to more meetings.&lt;/li&gt;
+&lt;li&gt;Independently of what they expect from you, chances are that you will have more responsibilities, which usually comes with more preassure.&lt;/li&gt;
+&lt;li&gt;You may be more than ready to be promoted but there may be a simply budget issue and it could be not the best moment.&lt;/li&gt;
+&lt;li&gt;Your team may think you are awesome and more than ready to promote, but sometimes your manager will have to defend your promotion against other candidatures from other teams and it may be hard for him/her to prove than you deserve it more than the others. Ideally all workers should receive what they deserve, but the reality is that we depend on the company’s money to opt in.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As you can imagine, all this can become really frustrating and exhausting, and you need to be mentally ready for it. The reason why I’m saying all this is because most of us think (specially in our early years) that promoting is a synonymous of success, and sometimes that can lead to a clear case of &lt;code class=&quot;language-text&quot;&gt;Peter&apos;s principle&lt;/code&gt;_, so think twice if that’s really what you want.&lt;/p&gt;
+&lt;p&gt;One last thing I want to mention here is the perspective of what a employer may see in you with your new shiny role. I think this may help understanding some of the points I noted before about what they will expect from you. At the end, they are investing in you (in the same way you are investing your time in them), and they will probably expect bigger outcomes from you from now on. As a rule of thumb, I mentally apply the following rule when I have to think if somebody (or myself) is ready to move on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A junior developer should have an impact his/her personal growth.&lt;/li&gt;
+&lt;li&gt;An intermediate developer should have an impact on his/her team.&lt;/li&gt;
+&lt;li&gt;A senior developer should have impact on his/her department.&lt;/li&gt;
+&lt;li&gt;Upper roles (staff, principal, etc) should have impact on the company.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I know I’m oversimplifying, but that’s what I use to know if I’m ready to move or to even know if I’m doing what I should be doing.&lt;/p&gt;
+&lt;p&gt;As all of my articles, this is a personal opinion and it’s completely biased, so I expect you to take all this with a grain of salt and I hope can find something useful from it. At the end, anybody’s career growth have a different pace with different outcomes. Don’t try to compare yourself with anybody and focus on enjoying what you do everyday.&lt;/p&gt;
+&lt;p&gt;.. _&lt;code class=&quot;language-text&quot;&gt;Peter&apos;s principle&lt;/code&gt;: &lt;a href=&quot;https://www.investopedia.com/terms/p/peter-principle.asp#:~:text=What%20Is%20the%20Peter%20Principle,a%20level%20of%20respective%20incompetence&quot;&gt;https://www.investopedia.com/terms/p/peter-principle.asp#:~:text=What%20Is%20the%20Peter%20Principle,a%20level%20of%20respective%20incompetence&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Programming languages]]></title><description><![CDATA[There are plenty of programming languages out there. Each of them have unique ways of solving problems, both from an internal and practical…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/03-programming-languages/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/03-programming-languages/</guid><pubDate>Mon, 10 May 2021 19:34:04 GMT</pubDate><content:encoded>&lt;p&gt;There are plenty of programming languages out there. Each of them have unique ways of solving problems, both from an internal and practical point of view. Because of this, it’s not uncommon to see people who will advocate for a particular language more than others, sometimes reaching the point of reverence and evangelization.&lt;/p&gt;
+&lt;p&gt;I’m not afraid to say I’ve been in both teams. When I started working I was a ruthless defender of Python. I loved all the things that the language and the community involved, and this is not necessarily a problem (it’s still one of my favourite languages). The problem comes when that sort of fanaticism turns out being hatred for languages different from yours. I’ve had endless conversations with my senior developers about how bad X or Y language were. The funny thing is that most of my reasons were aesthetic, which makes it even sillier, as in my opinion that should never be the reason to consider a language better than others (it can define your preference, but that’s it).&lt;/p&gt;
+&lt;p&gt;Let’s put some examples from some different programming languages. We are going to create a function that, given a string containing numbers separated by comma, we want to extract those numbers and return the sum of all of them.&lt;/p&gt;
+&lt;p&gt;Implementation with Java&lt;/p&gt;
+&lt;p&gt;.. code-block:: java&lt;/p&gt;
+&lt;p&gt;public static int countNumbers() {
+String sNumbers = “1, 2, 3, 4”;
+String sNumbersArray[] = sNumbers.split(”, ”);
+int[] numbers = new int[sNumbersArray.length];
+int acc = 0;
+for(int i = 0; i &amp;#x3C; sNumbersArray.length; i++) {
+acc += Integer.parseInt(sNumbersArray[i]);
+}
+return acc;
+}&lt;/p&gt;
+&lt;p&gt;Implementation with Elixir&lt;/p&gt;
+&lt;p&gt;.. code-block:: elixir&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;def count_numbers() do
+    s_numbers = &quot;1, 2, 3, 4&quot;
+    String.split(s_numbers, &quot;, &quot;)
+        |&gt; Enum.map(&amp;amp;String.to_integer/1)
+        |&gt; Enum.reduce(fn x, acc -&gt; x + acc end)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Implementation in Python:&lt;/p&gt;
+&lt;p&gt;.. code-block:: python&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;def count_numbers():
+    s_numbers = &quot;1, 2, 3, 4&quot;
+    return sum([int(n) for n in s_numbers.split(&quot;, &quot;)])&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Of course there are other possible solutions, I just wanted to make a point here. At a glance some people will have a clear idea of what was their favourite solution:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Java because is more clear&lt;/li&gt;
+&lt;li&gt;Elixir because is concise and understandable&lt;/li&gt;
+&lt;li&gt;Python because is short and powerful&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Well, all those answers are correct. I like to move between languages because I like different parts of them and the language itself forces me to shape my mind differently to reach the same solution, which helps staying fresh.&lt;/p&gt;
+&lt;p&gt;There is one last point I wanted to talk about on this matter: it’s not the same a production, professional environment than your pet project at home. On a company you need to take other things in consideration like: language expertise on the company, maintainability (sometimes weakly typed languages are a bit hard to maintain as you don’t know somestimes what are the variables you are working with) or infrastructure (it’s not the same to launch a Java app than a Python one).&lt;/p&gt;
+&lt;p&gt;In conclusion, most of the times the programming language choice (specially on a home project) is up to you. In 99% of the production apps out there, the language is not an impediment to deliver a product of quality (most of the times your performance issues are because of your code, not because of the language).&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Beginnings]]></title><description><![CDATA[Start something is always hard. Human beings are prone to stick with what is more comfortable to them. If I ask to choose between playing…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/02-beginnings/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/02-beginnings/</guid><pubDate>Thu, 01 Apr 2021 17:30:00 GMT</pubDate><content:encoded>&lt;p&gt;Start something is always hard. Human beings are prone to stick with what is more comfortable to them. If I ask to choose between playing videogames and studying for your next exam, most of you will probably be playing videogames before I finish the question. We are “naturally lazy”. This happens in a lot of situations, and development is not an exception.&lt;/p&gt;
+&lt;p&gt;When I started working as a software developer, I was extremely excited and I wanted to leave my mark on the company. I wanted to be the best and learn as much as possible from all my more experienced peeps. After a couple of weeks I saw something: some of my teammates were not feeling the same as me. They were not engaged! at first I felt a bit annoyed. They were my superiors, they should love what they do and they should know everything on this codebase, so we can decide what to improve on it… right? It turned out that there were some experienced developers there that were just doing their day-to-day job. Nothing more, nothing less. My frustration grew even more when I saw that almost none of them wanted to spend time improving the codebase! Trust me, there were things to improve (I could see that even though I had no experience), but they simply got used to it and lived with it. Remember what I said about “the comfort zone”? Here it is again. I’ll go deeper on this matter in another post, but I just wanted to highlight the different moods you could see when you are starting.&lt;/p&gt;
+&lt;p&gt;Of course there are several other scenarios you can find, and hopefully you will start working on a nice company, with great developers, where code quality is part of the workflow and you get the chance to take part on that quality. But if you don’t I’d like to give you a simple tip: there is &lt;strong&gt;always&lt;/strong&gt; something you can get better at. Specially when you are starting.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;The code is not good&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You will probably work on a big codebase with scalability challenges. Learn from that, and understand &lt;strong&gt;why&lt;/strong&gt; this code is not good.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;My teammates are not training me&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Look for ways to improve that situation. Take tasks that will require help from you superiors, ask your manager how can you get the help you need. Self-training is also something you will have to do on your future years.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;I feel like this is not for me&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;My friend, what you may be feeling is the infamous Impostor Syndrome. That will probably chase you during all your career and I’ll dedicate another article to it. Just know that we all went through that and it goes away over time. You can do it!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;I still feel this is not for me&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If time goes by and you still have this feeling, think also that there are tons of companies and tons of specialties that you may be more interested on. Maybe you like to do websites, or videogames, or embedded systems, or network architectures. Spend some time thinking what you’d like to do and maybe there will be other opportunities out there waiting for you.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Beginnings are always hard but with time, effort and small steps, you will see how quickly you go from “I have no idea what I’m doing” to “If you need some context about this piece of code, let me know”.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[Be welcomed to my n-th attempt to create a meaningful blog. Yes, I know it’s not the best way to start a blog, but I thought it’d be good…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/01-hello-world/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/01-hello-world/</guid><pubDate>Mon, 01 Mar 2021 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Be welcomed to my n-th attempt to create a meaningful blog. Yes, I know it’s not the best way to start a blog, but I thought it’d be good starting being honest with all of you. This brings my first topic&lt;/p&gt;
+&lt;h2&gt;Who are you?&lt;/h2&gt;
+&lt;p&gt;What’s your profession? what are your interests? what do you do for fun? it’s important for me to know this information to tell you if this blog is suited for you. Well, I guess you can’t answer me, so I’ll tell you what I’d expect from you. I’ll expect two kind of readers on this blog: people who will want to improve their development skills and people who want to know my personal experiences from a more human point of view&lt;/p&gt;
+&lt;h2&gt;Who am I?&lt;/h2&gt;
+&lt;p&gt;My name is Ivan Compañy, I was born in Alicante (Spain), and I’m currently living in Vancouver (Canada). During my more than 10 years of experience I’ve been lucky enough to play with tens of programming languages, hundreds of libraries and thousands of lines of code. But I also lived tens of working environments, hundreds of teammates and thousands of experiences. Maybe talking about a mixture of those two worlds can be interesting to somebody.&lt;/p&gt;
+&lt;h2&gt;Why this?&lt;/h2&gt;
+&lt;p&gt;When I thought about creating this blog, my first (and most important) question I wanted to answer before even starting was “what are you trying to transmit here?“. I didn’t want to just do another development blog. Don’t get me wrong, those are great, but sometimes I miss hearing from the person that is behind the code example, and that’s why my goal with this is to &lt;strong&gt;provide a more personal vision of what is development for me&lt;/strong&gt;. We will talk about languages, and I’ll give my opinion. We will talk about working experiences and I’ll talk about how I felt. We will talk about libraries and I’ll talk about how hard was for me to use them.&lt;/p&gt;
+&lt;p&gt;Hopefully this slightly different vision of my job will be helpful in a way and I hope you enjoy reading it as much as I do writing it. Let’s go :)&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Testing post]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/testing-post/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/testing-post/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+&lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
+&lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
+eggs in brine, or packing each egg in damp, salted charcoal. In Asian
+supermarkets, these eggs are sometimes sold covered in a thick layer of salted
+charcoal paste. The eggs may also be sold with the salted paste removed,
+wrapped in plastic, and vacuum packed. From the salt curing process, the
+salted duck eggs have a briny aroma, a gelatin-like egg white and a
+firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dWC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACERJC/9oACAEBAAEFAkqW7B5Zovtvk//EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESL/2gAIAQIBAT8BjT//xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAaEAADAQEBAQAAAAAAAAAAAAAAAREhQYGx/9oACAEBAAE/IXOrA43oOyg9wgU86OZMfwZKypT/2gAMAwEAAgADAAAAEMjv/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAwEBPxARwyusv//EABcRAQEBAQAAAAAAAAAAAAAAAAEAIVH/2gAIAQIBAT8QOoVoX//EAB0QAQEAAgIDAQAAAAAAAAAAAAERADFhgSFB0eH/2gAIAQEAAT8QSpwaGjrBSrtHyF9iY8RpUnGRBGqtOcsiDE6fM3AgiXf5M//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Chinese Salty Egg&quot;
+        title=&quot;Chinese Salty Egg&quot;
+        src=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg&quot;
+        srcset=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/ff44c/salty_egg.jpg 158w,
+/static/8058f3f26913fea3b6a89a73344fe94a/a6688/salty_egg.jpg 315w,
+/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg 630w,
+/static/8058f3f26913fea3b6a89a73344fe94a/0ede0/salty_egg.jpg 945w,
+/static/8058f3f26913fea3b6a89a73344fe94a/3ac88/salty_egg.jpg 1260w,
+/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;You can also write code blocks here!&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; saltyDuckEgg &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;chinese preserved food product&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;left&quot;&gt;Number&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;Title&lt;/th&gt;
+&lt;th align=&quot;right&quot;&gt;Year&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;1&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Harry Potter and the Philosopher’s Stone&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;2001&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;2&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Harry Potter and the Chamber of Secrets&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;2002&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;3&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Harry Potter and the Prisoner of Azkaban&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;2004&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href=&quot;https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md&quot;&gt;View raw (TEST.md)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is a paragraph.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This is a paragraph.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1&gt;Header 1&lt;/h1&gt;
+&lt;h2&gt;Header 2&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Header 1
+========
+
+Header 2
+--------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1&gt;Header 1&lt;/h1&gt;
+&lt;h2&gt;Header 2&lt;/h2&gt;
+&lt;h3&gt;Header 3&lt;/h3&gt;
+&lt;h4&gt;Header 4&lt;/h4&gt;
+&lt;h5&gt;Header 5&lt;/h5&gt;
+&lt;h6&gt;Header 6&lt;/h6&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1&gt;Header 1&lt;/h1&gt;
+&lt;h2&gt;Header 2&lt;/h2&gt;
+&lt;h3&gt;Header 3&lt;/h3&gt;
+&lt;h4&gt;Header 4&lt;/h4&gt;
+&lt;h5&gt;Header 5&lt;/h5&gt;
+&lt;h6&gt;Header 6&lt;/h6&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# Header 1 #
+## Header 2 ##
+### Header 3 ###
+#### Header 4 ####
+##### Header 5 #####
+###### Header 6 ######&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&gt; Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;This is a header.&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;This is the first list item.&lt;/li&gt;
+&lt;li&gt;This is the second list item.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Here’s some example code:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Markdown.generate();&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&gt; ## This is a header.
+&gt; 1. This is the first list item.
+&gt; 2. This is the second list item.
+&gt;
+&gt; Here&apos;s some example code:
+&gt;
+&gt;     Markdown.generate();&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Red&lt;/li&gt;
+&lt;li&gt;Green&lt;/li&gt;
+&lt;li&gt;Blue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Red&lt;/li&gt;
+&lt;li&gt;Green&lt;/li&gt;
+&lt;li&gt;Blue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Red&lt;/li&gt;
+&lt;li&gt;Green&lt;/li&gt;
+&lt;li&gt;Blue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Red
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Green
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Blue
+
+&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Red
+&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Green
+&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Blue
+
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Red
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Green
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Blue&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;code goes&lt;/code&gt; here in this line&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bold&lt;/strong&gt; goes here&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token code-snippet code keyword&quot;&gt;`code goes`&lt;/span&gt; here in this line
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token bold&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;bold&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;/span&gt; goes here&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;Buy flour and salt&lt;/li&gt;
+&lt;li&gt;Mix together with water&lt;/li&gt;
+&lt;li&gt;Bake&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Buy flour and salt
+&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Mix together with water
+&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Bake&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;code goes&lt;/code&gt; here in this line&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bold&lt;/strong&gt; goes here&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; &lt;span class=&quot;token code-snippet code keyword&quot;&gt;`code goes`&lt;/span&gt; here in this line
+&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; &lt;span class=&quot;token bold&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;bold&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;/span&gt; goes here&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Paragraph:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Code&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;!-- --&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Paragraph:
+
+    Code&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Example&quot;&gt;an example&lt;/a&gt; link.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://example.com&quot;&gt;This link&lt;/a&gt; has no title attr.&lt;/p&gt;
+&lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Optional Title&quot;&gt;an example&lt;/a&gt; reference-style link.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This is [an example](http://example.com &quot;Example&quot;) link.
+
+[This link](http://example.com) has no title attr.
+
+This is [an example] [id] reference-style link.
+
+[id]: http://example.com &quot;Optional Title&quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;single asterisks&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;single underscores&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;double asterisks&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;double underscores&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;*single asterisks*
+
+_single underscores_
+
+**double asterisks**
+
+__double underscores__&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This paragraph has some &lt;code class=&quot;language-text&quot;&gt;code&lt;/code&gt; in it.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This paragraph has some `code` in it.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;https://placehold.it/200x50&quot; alt=&quot;Alt Text&quot; title=&quot;Image Title&quot;&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;![Alt Text](https://placehold.it/200x50 &quot;Image Title&quot;)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item></channel></rss>
