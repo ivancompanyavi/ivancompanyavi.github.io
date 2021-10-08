@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Brain Bucket]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 Oct 2021 02:51:55 GMT</lastBuildDate><item><title><![CDATA[Stress]]></title><description><![CDATA[I obviosuly don’t know who you are or what you do for living so just so we are on the same page, let me tell you this: development can be…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/05-stress/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/05-stress/</guid><pubDate>Sat, 10 Jul 2021 18:30:12 GMT</pubDate><content:encoded>&lt;p&gt;I obviosuly don’t know who you are or what you do for living so just so we are on the same page, let me tell you this: development can be quite stressful. There are multiple factors that can be combined, but here are some examples so you understand what I mean by “stressful”:&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Brain Bucket]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 Oct 2021 22:36:07 GMT</lastBuildDate><item><title><![CDATA[Time off]]></title><description><![CDATA[This summer I decided to give myself some time off. The reasons were different,
+but a lot of them were related to my mental state regarding…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/06-time-off/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/06-time-off/</guid><pubDate>Sun, 01 Aug 2021 17:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This summer I decided to give myself some time off. The reasons were different,
+but a lot of them were related to my mental state regarding my visa in Canada.
+Long-story short, I had a pretty rough time dealing with my visa process, and
+at the same time I worked for Hootsuite. Living in a foreign country is usually
+pretty stressful, specially during your first years, and unfortunately I
+couldn’t do a clear mental separation between my personal and my professional
+life. Because of that, I started feeling like I wasn’t giving my 100% at work
+and the last thing I wanted to be was a bad professional, so I decided to move
+on.&lt;/p&gt;
+&lt;h2&gt;Resetting&lt;/h2&gt;
+&lt;p&gt;Before starting thinking about what to do next, I thought I needed to do a
+mental reset so I can really feel I’m being a good developer. My approach was
+pretty simple: spend a month off and later on, start looking for jobs. For the
+ones who don’t know, Vancouver is a city where it rains &lt;a href=&quot;https://vancouver.weatherstats.ca/charts/count_rain-yearly.html&quot;&gt;quite a
+lot&lt;/a&gt;, so when
+the weather gets better in summer, you really want to get the best of it. I
+like to run and do all kind of outdoor activities so I thought it would be the
+best thing in the world.&lt;/p&gt;
+&lt;h2&gt;The problem&lt;/h2&gt;
+&lt;p&gt;The only thing I didn’t take into account was that apart from doing exercise, I
+also like to code (and sometimes I can become a bit workaholic). What’s the
+problem with that? well, that a week or two after I started with my time off, I
+started feeling anxious for not having a job. Me and my wife are lucky enough
+to be able to live with only one of our salaries, so there was no rush, but I
+unconsciously needed to feel like I was being useful (although I was taking
+care of all the house-related chores).&lt;/p&gt;
+&lt;h2&gt;The “solution”&lt;/h2&gt;
+&lt;p&gt;There was only one way I saw possible for me to really enjoy my time: I’ll turn
+things around, start looking for jobs so when I get one, I can actually have a
+great time. So here I went, starting looking for jobs, to see how the market
+was, while I did outdoor exercise. I’ll talk in a different post how was my
+experience interviewing, but for this post’s sake, you just have to know that
+it didn’t work as I expected, and here are the reasons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;While you interview, you have to focus on it and study, so you don’t actually
+feel like you are having a time off.&lt;/li&gt;
+&lt;li&gt;Interview processes can take a lot of time (sometimes months).&lt;/li&gt;
+&lt;li&gt;The job market is &lt;strong&gt;HUGE&lt;/strong&gt;, specially in north-america, which sometimes makes
+it even harder to know what to apply to. Don’t get me wrong, it’s great
+having so many opportunities out there, it’s just a bit more stressful.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All these things made it more challenging to me to rest while I had to look for
+jobs.&lt;/p&gt;
+&lt;h2&gt;The advice&lt;/h2&gt;
+&lt;p&gt;Probably my take-away from all this would be: know yourself before deciding to
+have some time off and really think if you are going to be able to really rest.
+In my case it ended up working, it simply wasn’t as I expected.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Stress]]></title><description><![CDATA[I obviosuly don’t know who you are or what you do for living so just so we are on the same page, let me tell you this: development can be…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/05-stress/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/05-stress/</guid><pubDate>Sat, 10 Jul 2021 18:30:12 GMT</pubDate><content:encoded>&lt;p&gt;I obviosuly don’t know who you are or what you do for living so just so we are on the same page, let me tell you this: development can be quite stressful. There are multiple factors that can be combined, but here are some examples so you understand what I mean by “stressful”:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Deadlines: you have to deliver something tomorrow and you still don’t know if you will make it.&lt;/li&gt;
 &lt;li&gt;Lack of confidence: you were assigned a task you don’t know about and there is no help around to assist you.&lt;/li&gt;
@@ -45,29 +92,29 @@
 &lt;p&gt;I’m not afraid to say I’ve been in both teams. When I started working I was a ruthless defender of Python. I loved all the things that the language and the community involved, and this is not necessarily a problem (it’s still one of my favourite languages). The problem comes when that sort of fanaticism turns out being hatred for languages different from yours. I’ve had endless conversations with my senior developers about how bad X or Y language were. The funny thing is that most of my reasons were aesthetic, which makes it even sillier, as in my opinion that should never be the reason to consider a language better than others (it can define your preference, but that’s it).&lt;/p&gt;
 &lt;p&gt;Let’s put some examples from some different programming languages. We are going to create a function that, given a string containing numbers separated by comma, we want to extract those numbers and return the sum of all of them.&lt;/p&gt;
 &lt;p&gt;Implementation with Java&lt;/p&gt;
-&lt;p&gt;.. code-block:: java&lt;/p&gt;
-&lt;p&gt;public static int countNumbers() {
-String sNumbers = “1, 2, 3, 4”;
-String sNumbersArray[] = sNumbers.split(”, ”);
-int[] numbers = new int[sNumbersArray.length];
-int acc = 0;
-for(int i = 0; i &amp;#x3C; sNumbersArray.length; i++) {
-acc += Integer.parseInt(sNumbersArray[i]);
-}
-return acc;
-}&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;countNumbers&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt; sNumbers &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;1, 2, 3, 4&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      &lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt; sNumbersArray&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; sNumbers&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;, &quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; numbers &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;sNumbersArray&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;length&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;int&lt;/span&gt; acc &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;int&lt;/span&gt; i &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; i &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt; sNumbersArray&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;length&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; i&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+          acc &lt;span class=&quot;token operator&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Integer&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;parseInt&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;sNumbersArray&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;i&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; acc&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Implementation with Elixir&lt;/p&gt;
-&lt;p&gt;.. code-block:: elixir&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;def count_numbers() do
-    s_numbers = &quot;1, 2, 3, 4&quot;
-    String.split(s_numbers, &quot;, &quot;)
-        |&gt; Enum.map(&amp;amp;String.to_integer/1)
-        |&gt; Enum.reduce(fn x, acc -&gt; x + acc end)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;elixir&quot;&gt;&lt;pre class=&quot;language-elixir&quot;&gt;&lt;code class=&quot;language-elixir&quot;&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;count_numbers&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;do&lt;/span&gt;
+        s_numbers &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;1, 2, 3, 4&quot;&lt;/span&gt;
+        &lt;span class=&quot;token module class-name&quot;&gt;String&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;s_numbers&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;, &quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+            &lt;span class=&quot;token operator&quot;&gt;|&gt;&lt;/span&gt; &lt;span class=&quot;token module class-name&quot;&gt;Enum&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;map&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;token module class-name&quot;&gt;String&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;to_integer&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+            &lt;span class=&quot;token operator&quot;&gt;|&gt;&lt;/span&gt; &lt;span class=&quot;token module class-name&quot;&gt;Enum&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;reduce&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;fn&lt;/span&gt; x&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; acc &lt;span class=&quot;token operator&quot;&gt;-&gt;&lt;/span&gt; x &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; acc &lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Implementation in Python:&lt;/p&gt;
-&lt;p&gt;.. code-block:: python&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;def count_numbers():
-    s_numbers = &quot;1, 2, 3, 4&quot;
-    return sum([int(n) for n in s_numbers.split(&quot;, &quot;)])&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;count_numbers&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        s_numbers &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;1, 2, 3, 4&quot;&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token builtin&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token builtin&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;n&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; n &lt;span class=&quot;token keyword&quot;&gt;in&lt;/span&gt; s_numbers&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;split&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;, &quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Of course there are other possible solutions, I just wanted to make a point here. At a glance some people will have a clear idea of what was their favourite solution:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Java because is more clear&lt;/li&gt;

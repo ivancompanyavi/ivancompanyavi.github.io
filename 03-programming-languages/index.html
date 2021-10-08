@@ -5,29 +5,29 @@
 <p>I’m not afraid to say I’ve been in both teams. When I started working I was a ruthless defender of Python. I loved all the things that the language and the community involved, and this is not necessarily a problem (it’s still one of my favourite languages). The problem comes when that sort of fanaticism turns out being hatred for languages different from yours. I’ve had endless conversations with my senior developers about how bad X or Y language were. The funny thing is that most of my reasons were aesthetic, which makes it even sillier, as in my opinion that should never be the reason to consider a language better than others (it can define your preference, but that’s it).</p>
 <p>Let’s put some examples from some different programming languages. We are going to create a function that, given a string containing numbers separated by comma, we want to extract those numbers and return the sum of all of them.</p>
 <p>Implementation with Java</p>
-<p>.. code-block:: java</p>
-<p>public static int countNumbers() {
-String sNumbers = “1, 2, 3, 4”;
-String sNumbersArray[] = sNumbers.split(”, ”);
-int[] numbers = new int[sNumbersArray.length];
-int acc = 0;
-for(int i = 0; i &#x3C; sNumbersArray.length; i++) {
-acc += Integer.parseInt(sNumbersArray[i]);
-}
-return acc;
-}</p>
+<div class="gatsby-highlight" data-language="java"><pre class="language-java"><code class="language-java">
+  <span class="token keyword">public</span> <span class="token keyword">static</span> <span class="token keyword">int</span> <span class="token function">countNumbers</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+      <span class="token class-name">String</span> sNumbers <span class="token operator">=</span> <span class="token string">"1, 2, 3, 4"</span><span class="token punctuation">;</span>
+      <span class="token class-name">String</span> sNumbersArray<span class="token punctuation">[</span><span class="token punctuation">]</span> <span class="token operator">=</span> sNumbers<span class="token punctuation">.</span><span class="token function">split</span><span class="token punctuation">(</span><span class="token string">", "</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+      <span class="token keyword">int</span><span class="token punctuation">[</span><span class="token punctuation">]</span> numbers <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token keyword">int</span><span class="token punctuation">[</span>sNumbersArray<span class="token punctuation">.</span>length<span class="token punctuation">]</span><span class="token punctuation">;</span>
+      <span class="token keyword">int</span> acc <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span>
+      <span class="token keyword">for</span><span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> sNumbersArray<span class="token punctuation">.</span>length<span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+          acc <span class="token operator">+=</span> <span class="token class-name">Integer</span><span class="token punctuation">.</span><span class="token function">parseInt</span><span class="token punctuation">(</span>sNumbersArray<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+      <span class="token punctuation">}</span>
+      <span class="token keyword">return</span> acc<span class="token punctuation">;</span>
+  <span class="token punctuation">}</span></code></pre></div>
 <p>Implementation with Elixir</p>
-<p>.. code-block:: elixir</p>
-<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">def count_numbers() do
-    s_numbers = "1, 2, 3, 4"
-    String.split(s_numbers, ", ")
-        |> Enum.map(&amp;String.to_integer/1)
-        |> Enum.reduce(fn x, acc -> x + acc end)</code></pre></div>
+<div class="gatsby-highlight" data-language="elixir"><pre class="language-elixir"><code class="language-elixir">
+    <span class="token keyword">def</span> <span class="token function">count_numbers</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token keyword">do</span>
+        s_numbers <span class="token operator">=</span> <span class="token string">"1, 2, 3, 4"</span>
+        <span class="token module class-name">String</span><span class="token punctuation">.</span><span class="token function">split</span><span class="token punctuation">(</span>s_numbers<span class="token punctuation">,</span> <span class="token string">", "</span><span class="token punctuation">)</span>
+            <span class="token operator">|></span> <span class="token module class-name">Enum</span><span class="token punctuation">.</span><span class="token function">map</span><span class="token punctuation">(</span><span class="token operator">&amp;</span><span class="token module class-name">String</span><span class="token punctuation">.</span><span class="token function">to_integer</span><span class="token operator">/</span><span class="token number">1</span><span class="token punctuation">)</span>
+            <span class="token operator">|></span> <span class="token module class-name">Enum</span><span class="token punctuation">.</span><span class="token function">reduce</span><span class="token punctuation">(</span><span class="token keyword">fn</span> x<span class="token punctuation">,</span> acc <span class="token operator">-></span> x <span class="token operator">+</span> acc <span class="token keyword">end</span><span class="token punctuation">)</span></code></pre></div>
 <p>Implementation in Python:</p>
-<p>.. code-block:: python</p>
-<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">def count_numbers():
-    s_numbers = "1, 2, 3, 4"
-    return sum([int(n) for n in s_numbers.split(", ")])</code></pre></div>
+<div class="gatsby-highlight" data-language="python"><pre class="language-python"><code class="language-python">
+    <span class="token keyword">def</span> <span class="token function">count_numbers</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+        s_numbers <span class="token operator">=</span> <span class="token string">"1, 2, 3, 4"</span>
+        <span class="token keyword">return</span> <span class="token builtin">sum</span><span class="token punctuation">(</span><span class="token punctuation">[</span><span class="token builtin">int</span><span class="token punctuation">(</span>n<span class="token punctuation">)</span> <span class="token keyword">for</span> n <span class="token keyword">in</span> s_numbers<span class="token punctuation">.</span>split<span class="token punctuation">(</span><span class="token string">", "</span><span class="token punctuation">)</span><span class="token punctuation">]</span><span class="token punctuation">)</span></code></pre></div>
 <p>Of course there are other possible solutions, I just wanted to make a point here. At a glance some people will have a clear idea of what was their favourite solution:</p>
 <ul>
 <li>Java because is more clear</li>
