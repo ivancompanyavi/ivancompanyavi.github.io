@@ -12,7 +12,7 @@ Let's put some examples from some different programming languages. We are going 
 
 Implementation with Java
 
-.. code-block:: java
+```java
 
   public static int countNumbers() {
       String sNumbers = "1, 2, 3, 4";
@@ -24,25 +24,26 @@ Implementation with Java
       }
       return acc;
   }
-
+```
 Implementation with Elixir
 
-.. code-block:: elixir
+```elixir
 
     def count_numbers() do
         s_numbers = "1, 2, 3, 4"
         String.split(s_numbers, ", ")
             |> Enum.map(&String.to_integer/1)
             |> Enum.reduce(fn x, acc -> x + acc end)
+```
 
 Implementation in Python:
 
-.. code-block:: python
+```python
 
     def count_numbers():
         s_numbers = "1, 2, 3, 4"
         return sum([int(n) for n in s_numbers.split(", ")])
-
+```
 Of course there are other possible solutions, I just wanted to make a point here. At a glance some people will have a clear idea of what was their favourite solution:
 
 - Java because is more clear
