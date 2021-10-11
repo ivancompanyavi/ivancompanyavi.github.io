@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 const Header = () => {
   return (
-    <header className="w-screen">
+    <header className="w-screen bg-indigo-500 text-white">
       <nav>
         <ul className="flex justify-center items-center">
           <li className="w-32 py-2 flex item-center justify-center">
