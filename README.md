@@ -23,7 +23,7 @@ Blog personal de Ivan Company, publicado en [ivan-company.com](https://ivan-comp
 
 ## Desarrollo local
 
-Necesitas Node 22.23 o superior.
+Necesitas Node 24 (o 22.23 o superior).
 
 ```sh
 npm install
