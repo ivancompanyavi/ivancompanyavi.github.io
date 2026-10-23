@@ -1,0 +1,45 @@
+---
+import { render } from "astro:content";
+import Base from "../layouts/Base.astro";
+import Newsletter from "../components/Newsletter.astro";
+import { getPosts, formatDate } from "../lib/posts";
+
+export async function getStaticPaths() {
+  const posts = await getPosts();
+  return posts.map((post, i) => ({
+    params: { slug: post.id },
+    props: { post, newer: posts[i - 1], older: posts[i + 1] },
+  }));
+}
+
+const { post, newer, older } = Astro.props;
+const { Content } = await render(post);
+---
+
+<Base
+  title={post.data.title}
+  description={post.data.description}
+  type="article"
+>
+  <article lang={post.data.lang}>
+    <header class="post-header">
+      <div class="meta">
+        <time datetime={post.data.date.toISOString()}>
+          {formatDate(post.data.date)}
+        </time>
+      </div>
+      <h1>{post.data.title}</h1>
+      {post.data.description && <p class="lead">{post.data.description}</p>}
+    </header>
+    <div class="prose">
+      <Content />
+    </div>
+  </article>
+
+  <Newsletter />
+
+  <nav class="post-nav" aria-label="Más artículos">
+    <span>{older && <a href={`/${older.id}/`}>← {older.data.title}</a>}</span>
+    <span>{newer && <a href={`/${newer.id}/`}>{newer.data.title} →</a>}</span>
+  </nav>
+</Base>

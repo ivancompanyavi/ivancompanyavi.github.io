@@ -1,0 +1,48 @@
+---
+import { Image } from "astro:assets";
+import Base from "../layouts/Base.astro";
+import Newsletter from "../components/Newsletter.astro";
+import { getPosts, formatDate } from "../lib/posts";
+import { SITE } from "../site.config";
+import profile from "../assets/profile.jpeg";
+
+const posts = await getPosts();
+---
+
+<Base>
+  <section class="intro">
+    <Image src={profile} alt="Ivan Company" width={128} height={128} />
+    <p>
+      <strong>{SITE.author}</strong>. Engineering manager y desarrollador.
+      Escribo sobre agentes de IA, calidad de software y equipos de ingeniería.{" "}
+      <a href="/sobre-mi/">Más sobre mí</a>.
+    </p>
+  </section>
+
+  <h2 class="section-label">Artículos</h2>
+  <ul class="post-list">
+    {posts.map(post => (
+      <li>
+        <div class="meta">
+          <time datetime={post.data.date.toISOString()}>
+            {formatDate(post.data.date)}
+          </time>
+          {post.data.lang !== SITE.lang && (
+            <span class="lang-tag" title="Artículo en inglés">
+              {post.data.lang}
+            </span>
+          )}
+          {post.data.draft && <span class="lang-tag">borrador</span>}
+        </div>
+        <a href={`/${post.id}/`} lang={post.data.lang}>
+          {post.data.title}
+        </a>
+        {post.data.description && (
+          <p lang={post.data.lang}>{post.data.description}</p>
+        )}
+      </li>
+    ))}
+  </ul>
+
+  <Newsletter />
+</Base>
