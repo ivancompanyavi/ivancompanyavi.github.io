@@ -1,0 +1,81 @@
+---
+import "../styles/global.css";
+import { SITE, LINKS } from "../site.config";
+
+interface Props {
+  title?: string;
+  description?: string;
+  type?: "website" | "article";
+}
+
+const { title, description = SITE.description, type = "website" } = Astro.props;
+const fullTitle = title ? `${title} · ${SITE.title}` : SITE.title;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const path = Astro.url.pathname;
+const nav = [
+  { label: "Artículos", href: "/" },
+  { label: "Sobre mí", href: "/sobre-mi/" },
+];
+---
+
+<!doctype html>
+<html lang={SITE.lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href="/favicon.ico" />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title={SITE.title}
+      href="/rss.xml"
+    />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <meta property="og:type" content={type} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:locale" content={SITE.locale.replace("-", "_")} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="generator" content={Astro.generator} />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="site-title" href="/">
+          {SITE.title}
+        </a>
+        <nav class="site-nav" aria-label="Principal">
+          {nav.map(item => (
+            <a
+              href={item.href}
+              aria-current={path === item.href ? "page" : undefined}
+            >
+              {item.label}
+            </a>
+          ))}
+        </nav>
+      </div>
+    </header>
+    <main>
+      <div class="wrap">
+        <slot />
+      </div>
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <span>
+          © {new Date().getFullYear()} {SITE.author}
+        </span>
+        <nav aria-label="Enlaces">
+          {LINKS.map(link => (
+            <a href={link.href}>{link.label}</a>
+          ))}
+        </nav>
+      </div>
+    </footer>
+  </body>
+</html>

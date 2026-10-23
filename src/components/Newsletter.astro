@@ -1,0 +1,35 @@
+---
+import { NEWSLETTER } from "../site.config";
+---
+
+{NEWSLETTER.action && (
+  <section class="newsletter" aria-labelledby="newsletter-title">
+    <h2 id="newsletter-title">{NEWSLETTER.title}</h2>
+    <p>{NEWSLETTER.text}</p>
+    <form action={NEWSLETTER.action} method="post" target="_blank">
+      <label class="visually-hidden" for="newsletter-email">
+        Correo electrónico
+      </label>
+      <input
+        id="newsletter-email"
+        type="email"
+        name={NEWSLETTER.emailField}
+        placeholder="tu@correo.com"
+        autocomplete="email"
+        required
+      />
+      <button type="submit">Suscribirme</button>
+    </form>
+  </section>
+)}
+
+<style>
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+  }
+</style>

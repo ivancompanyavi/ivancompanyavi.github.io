@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ivan-company.com/sitemap-index.xml

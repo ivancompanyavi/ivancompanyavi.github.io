@@ -1,0 +1,60 @@
+---
+import Base from "../layouts/Base.astro";
+import Newsletter from "../components/Newsletter.astro";
+---
+
+<Base
+  title="Sobre mí"
+  description="Quién soy, de qué escribo y en qué puedo ayudarte."
+>
+  <header class="post-header">
+    <h1>Sobre mí</h1>
+    <p class="lead">
+      Engineering manager y desarrollador con 15 años de experiencia.
+    </p>
+  </header>
+
+  <div class="prose">
+    <!-- TODO(Ivan): revisa y personaliza este texto. -->
+    <p>
+      Soy Ivan Company. He pasado de Alicante a Barcelona y de ahí a Vancouver,
+      trabajando en la industria del videojuego, en empresas como King y
+      Activision Blizzard, y ahora dirigiendo equipos de ingeniería.
+    </p>
+    <p>
+      Últimamente dedico buena parte de mi tiempo a montar sistemas con agentes
+      de IA que desarrollan features de principio a fin, y a pensar cómo cambia
+      el trabajo de un equipo cuando parte del código lo escribe una IA. Aquí
+      escribo sobre lo que pruebo: lo que funciona, lo que no y por qué.
+    </p>
+
+    <h2>En qué puedo ayudarte</h2>
+  </div>
+
+  <div class="services">
+    <div>
+      <h3>Adopción de agentes en equipos de desarrollo</h3>
+      <p>
+        Diseñar flujos con agentes, skills y verificación que funcionen en tu
+        código y tu equipo.
+      </p>
+    </div>
+    <div>
+      <h3>Mentoría para managers de ingeniería</h3>
+      <p>
+        Sesiones uno a uno sobre gestión de equipos, carrera y liderazgo
+        técnico.
+      </p>
+    </div>
+  </div>
+
+  <div class="prose">
+    <!-- TODO(Ivan): cambia este enlace por tu correo o tu LinkedIn. -->
+    <p>
+      ¿Te interesa? <a href="https://github.com/ivancompanyavi">Escríbeme</a> y
+      lo hablamos.
+    </p>
+  </div>
+
+  <Newsletter />
+</Base>
